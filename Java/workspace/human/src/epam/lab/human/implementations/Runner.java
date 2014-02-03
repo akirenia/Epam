@@ -3,7 +3,7 @@
  */
 package epam.lab.human.implementations;
 
-import epam.lab.human.abstracts.Education;
+import epam.lab.human.abstracts.AbstractEducation;
 
 /**
  * @author Tomat
@@ -17,7 +17,7 @@ public class Runner {
 	public static void main(String[] args) {
 		Human jon = new Human();
 		jon.getEducationList();
-		Education school = new Education();
+		//Education school = new Education();
 	}
 
 }

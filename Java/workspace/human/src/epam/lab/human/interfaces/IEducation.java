@@ -3,7 +3,6 @@
  */
 package epam.lab.human.interfaces;
 
-import java.util.*;
 
 /**
  * @author Tomat

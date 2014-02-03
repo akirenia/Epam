@@ -61,6 +61,12 @@ public class Human implements IHuman {
 	public void setEducationList(EducationList educationList) {
 		this.educationList = educationList;		
 	}
+
+	@Override
+	public void setEducationList() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	/*
 	public void setJobList(ArrayList<IJob> jobList) {
