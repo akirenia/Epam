@@ -5,10 +5,8 @@ package epam.lab.human.implementations;
 
 import java.util.ArrayList;
 
-import epam.lab.human.interfaces.IEducation;
+import epam.lab.human.enums.Sex;
 import epam.lab.human.interfaces.IHuman;
-import epam.lab.human.interfaces.IJob;
-import epam.lab.human.interfaces.Sex;
 
 /**
  * @author Tomat

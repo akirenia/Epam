@@ -3,7 +3,7 @@
  */
 package epam.lab.human.abstracts;
 
-import epam.lab.human.interfaces.EducationType;
+import epam.lab.human.enums.EducationType;
 import epam.lab.human.interfaces.IEducation;
 
 /**
